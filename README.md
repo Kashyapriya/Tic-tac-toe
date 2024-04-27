@@ -24,7 +24,7 @@ These commands compile the Java source code ('TicTacToe.java') and then execute 
 
 ## Usage
 
-1.When prompted, enter the row and column numbers (1-3) to place your symbol on the grid.
+1.When prompted, enter the row and column numbers (1-9) to place your symbol on the grid.
 
 2.Players take turns until one wins or the game ends in a draw.
 
