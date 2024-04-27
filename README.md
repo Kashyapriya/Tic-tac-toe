@@ -20,7 +20,7 @@ Determines the winner or declares a draw at the end of the game.
 
 2. Run:  java TicTacToe
 
-These commands compile the Java source code ('TicTacToe.java') and then execute the compiled program ('TicTacToe') in the terminal. Make sure you're in the correct directory where your Java source code file is located before executing these commands.
+These commands compile the Java source code ('Tictactoe.java') and then execute the compiled program ('Tictactoe') in the terminal. Make sure you're in the correct directory where your Java source code file is located before executing these commands.
 
 ## Usage
 
